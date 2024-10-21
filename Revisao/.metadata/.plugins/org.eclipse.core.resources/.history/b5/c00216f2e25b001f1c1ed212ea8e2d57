@@ -1,0 +1,27 @@
+package revisao;
+import java.util.Scanner;
+
+/*3) Faça um programa em Java que receba 3 notas de um aluno e seus respectivos pesos, calcule e informe a
+média ponderada.*/
+public class Q3 {
+	
+	
+	public static double[] mediaPonderada(double notas[], int pesos[]){
+		
+		
+		
+		return  ;
+	}
+	
+	
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		
+		
+		
+		
+
+	}
+
+}
